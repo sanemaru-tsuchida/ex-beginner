@@ -1,4 +1,4 @@
-package com.example.domain;
+package com.example.From;
 
 public class Exam1 {
 	private String name;
